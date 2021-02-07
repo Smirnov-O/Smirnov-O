@@ -16,7 +16,7 @@ const mySkils = {
       python: "flask",
     },
     tools: ["git"],
-    os: ["linux"]
+    os: ["linux"],
     devOps: ["gocker"],
     databases: ["mongo", "sql", "sqlite"],
   },
