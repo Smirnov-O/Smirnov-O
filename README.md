@@ -15,8 +15,9 @@ const mySkils = {
     backEnd: {
       python: "flask",
     },
-    tools: ["Git"],
-    devOps: ["Docker"],
+    tools: ["git"],
+    os: ["linux"]
+    devOps: ["gocker"],
     databases: ["mongo", "sql", "sqlite"],
   },
 };
