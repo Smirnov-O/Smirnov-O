@@ -3,7 +3,7 @@ I from Ukraine and I love python, JS, linux
 
 ### My skils
 ```javascript
-const mySkils = {
+const smirnovAlexandr = {
   pronouns: "He" | "Him",
   code: ["javascript", "python", "bash"],
   stylus: ["css", "scss"],
@@ -17,7 +17,7 @@ const mySkils = {
     },
     tools: ["git"],
     os: ["linux"],
-    devOps: ["gocker"],
+    devOps: ["docker"],
     databases: ["mongo", "sql", "sqlite"],
   },
 };
