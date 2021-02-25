@@ -8,8 +8,7 @@ const smirnovAlexandr = {
   code: ["javascript", "python", "bash"],
   framework: ["ReactJS"],
   stylus: ["css", "scss"],
-  tools: ["git", "docker"],
-  },
+  tools: ["git", "docker"]
 };
 ```
 
