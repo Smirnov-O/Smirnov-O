@@ -6,16 +6,9 @@ I from Ukraine and I love python, JS, linux
 const smirnovAlexandr = {
   pronouns: "He" | "Him",
   code: ["javascript", "python", "bash"],
+  framework: ["ReactJS"],
   stylus: ["css", "scss"],
-  technologies: {
-    frontEnd: {
-      js: "ReactJS",
-      css: "SCSS",
-    },
-    backEnd: {
-      python: "flask",
-    },
-    tools: ["git", "docker"],
+  tools: ["git", "docker"],
   },
 };
 ```
