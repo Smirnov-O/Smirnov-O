@@ -1,7 +1,7 @@
 ### :wave: Hi! I'm Smirnov Alexander
 I from Ukraine and I love python, JS, linux
 
-### My skils
+### About me
 ```javascript
 const smirnovAlexandr = {
   pronouns: "He" | "Him",
@@ -15,10 +15,7 @@ const smirnovAlexandr = {
     backEnd: {
       python: "flask",
     },
-    tools: ["git"],
-    os: ["linux"],
-    devOps: ["docker"],
-    databases: ["mongo", "sql", "sqlite"],
+    tools: ["git", "docker"],
   },
 };
 ```
